@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFF4F2EC</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="outline">#FFDCD8CE</color>
+    <color name="text">#FF161513</color>
+    <color name="text_muted">#FF66625A</color>
+    <color name="brand">#FF161513</color>
+    <color name="on_brand">#FFFFD60A</color>
+    <color name="selection">#FFE0A800</color>
+    <color name="ripple">#1F000000</color>
+    <color name="nav_scrim">#66000000</color>
+    <color name="icon_bg">#FFFFD60A</color>
+</resources>

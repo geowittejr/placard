@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Placard</string>
+    <string name="tagline">Type it. Show it. Big.</string>
+    <string name="message_hint">What do you want to say?</string>
+    <string name="error_empty">Type something first</string>
+
+    <string name="section_style">Style</string>
+    <string name="swatch_sample">Aa</string>
+    <string name="style_description">%1$s style</string>
+
+    <string name="section_display">Display</string>
+    <string name="mode_fit">Fit to screen</string>
+    <string name="mode_ticker">Scrolling</string>
+    <string name="max_brightness">Full brightness while showing</string>
+
+    <string name="show">Show it</string>
+    <string name="save_phrase">☆  Save phrase</string>
+    <string name="saved">Saved</string>
+
+    <string name="section_phrases">Saved phrases</string>
+    <string name="phrases_empty">Saved phrases show up here. Tap one to show it instantly.</string>
+    <string name="phrase_show_description">Show “%1$s”</string>
+    <string name="phrase_remove_description">Remove “%1$s”</string>
+    <string name="remove_symbol">×</string>
+    <string name="loaded_into_editor">Loaded into the editor</string>
+
+    <string name="tip">Tips: tap a saved phrase to show it right away, or long-press it to edit. Turn the phone sideways for even bigger letters. On the sign, double-tap to flip it upside down for the person across from you.</string>
+
+    <string name="display_hint">Double-tap to flip · Back to close</string>
+    <string name="display_hint_ticker">Tap to pause · Double-tap to flip · Back to close</string>
+</resources>
